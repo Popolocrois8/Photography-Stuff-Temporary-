@@ -1,10 +1,11 @@
+import BottomNav from "./components/BottomNav";
 import Header from "./components/Header";
 
 function App() {
   return (
     <>
       <Header />
-      <h1>PhotoLoc</h1>
+      <BottomNav />
     </>
   );
 }
