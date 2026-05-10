@@ -1,5 +1,5 @@
 .bottom-nav{
-    position: sticky;
+    position: fixed;
     bottom: 24px;
     left: 50%;
 
