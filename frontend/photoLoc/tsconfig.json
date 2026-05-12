@@ -7,7 +7,6 @@
 
    "compilerOptions": {
     // ... your existing config ...
-    "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"],
       "@untitledui/*": ["./node_modules/untitledui-react/dist/*"]
